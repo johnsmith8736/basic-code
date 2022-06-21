@@ -1,4 +1,4 @@
-package cn.itcast.day03demo03;
+package cn.itcast.day03.demo03;
 
 public class DemoConstructorPara {
     int x;
