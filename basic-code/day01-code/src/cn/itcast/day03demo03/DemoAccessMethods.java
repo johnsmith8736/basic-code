@@ -1,6 +1,6 @@
 package cn.itcast.day03demo03;
 
-public class DemoAccessMehtods {
+public class DemoAccessMethods {
     public void fullThrottle() {
         System.out.println("The car is going as fast as it can!");
     }
@@ -9,7 +9,7 @@ public class DemoAccessMehtods {
     }
 
     public static void main(String[] args) {
-        DemoAccessMehtods myCar= new DemoAccessMehtods();
+        DemoAccessMethods myCar= new DemoAccessMethods();
         myCar.fullThrottle();
         myCar.speed(100);
     }
